@@ -2,12 +2,6 @@
 
 ##### A light weight Python library for the Spotify Web API
 
-![Tests](https://github.com/plamere/spotipy/workflows/Tests/badge.svg?branch=master) [![Documentation Status](https://readthedocs.org/projects/spotipy/badge/?version=latest)](https://spotipy.readthedocs.io/en/latest/?badge=latest)
-
-## Documentation
-
-Spotipy's full documentation is online at [Spotipy Documentation](http://spotipy.readthedocs.org/).
-
 ## Installation
 
 ```bash
@@ -25,10 +19,6 @@ or upgrade
 ```bash
 pip install spotipy --upgrade
 ```
-
-## Quick Start
-
-A full set of examples can be found in the [online documentation](http://spotipy.readthedocs.org/) and in the [Spotipy examples directory](https://github.com/plamere/spotipy/tree/master/examples).
 
 To get started, install spotipy and create an app on https://developers.spotify.com/.
 Add your new ID and SECRET to your environment:
@@ -73,7 +63,3 @@ For common questions please check our [FAQ](FAQ.md).
 You can ask questions about Spotipy on
 [Stack Overflow](http://stackoverflow.com/questions/ask).
 Don’t forget to add the *Spotipy* tag, and any other relevant tags as well, before posting.
-
-If you have suggestions, bugs or other issues specific to this library,
-file them [here](https://github.com/plamere/spotipy/issues).
-Or just send a pull request.
